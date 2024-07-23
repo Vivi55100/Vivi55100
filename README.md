@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Hi my name is Steven, i'm a french beginner developer
 <!--
 **Vivi55100/Vivi55100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
